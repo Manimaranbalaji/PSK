@@ -1,4 +1,4 @@
-# PSK
+# PSK - Phase Shift Keying
 ## Aim:
 To write a Python program for the modulation and demodulation of PSK.
 ## Tools required:
@@ -63,3 +63,5 @@ plt.show()
 Thus the PSK (Phase Shift Keying) is performed using Python.
 
 ## Hardware experiment output waveform:
+![WhatsApp Image 2025-05-05 at 08 09 50_ef4ee474](https://github.com/user-attachments/assets/7840a89d-fa37-4dce-a990-cbfb1ba29a24)
+
